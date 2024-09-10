@@ -1,0 +1,11 @@
+# Ignore the config file with database passwords
+config.js
+
+# Ignore environment files
+.env
+
+# Ignore node_modules (if you're using Node.js)
+node_modules/
+
+# Ignore log files
+*.log
